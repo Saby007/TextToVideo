@@ -1,0 +1,4 @@
+create 10 dall-e image prompts ideas on the below content
+{{$input}}
+
+Prompts: 
